@@ -19,7 +19,7 @@ Kaggle(https://www.kaggle.com/datasets/hemanthsai7/solar-panel-dust-detection)
 ## Tools and Technologies
 - **Programming Language**: Python
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Machine Learning Algorithms**: Linear Regression, Decision Trees, Random Forest
+- **Machine Learning Algorithms**: CNN
 - **Visualization Tools**: Matplotlib, Seaborn
 
 ## Workflow
@@ -68,12 +68,8 @@ Kaggle(https://www.kaggle.com/datasets/hemanthsai7/solar-panel-dust-detection)
 ## Contributing
 Contributions are welcome! Please create an issue or submit a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For questions or support, please contact:
 - **Name**: Athar Abbas
-- **Email**: [your_email@example.com]
-- **LinkedIn**: [your_linkedin_profile]
+- **Email**: [atharabbas993@gmail.com]
 
